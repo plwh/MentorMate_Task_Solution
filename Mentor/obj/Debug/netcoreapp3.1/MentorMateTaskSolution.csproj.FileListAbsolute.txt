@@ -1,0 +1,11 @@
+C:\Users\acho1\Desktop\Coding\Coding\Projects\MentorMate_Intern_Task\Solution\Mentor\bin\Debug\netcoreapp3.1\MentorMateTaskSolution.exe
+C:\Users\acho1\Desktop\Coding\Coding\Projects\MentorMate_Intern_Task\Solution\Mentor\bin\Debug\netcoreapp3.1\MentorMateTaskSolution.deps.json
+C:\Users\acho1\Desktop\Coding\Coding\Projects\MentorMate_Intern_Task\Solution\Mentor\bin\Debug\netcoreapp3.1\MentorMateTaskSolution.runtimeconfig.json
+C:\Users\acho1\Desktop\Coding\Coding\Projects\MentorMate_Intern_Task\Solution\Mentor\bin\Debug\netcoreapp3.1\MentorMateTaskSolution.runtimeconfig.dev.json
+C:\Users\acho1\Desktop\Coding\Coding\Projects\MentorMate_Intern_Task\Solution\Mentor\bin\Debug\netcoreapp3.1\MentorMateTaskSolution.dll
+C:\Users\acho1\Desktop\Coding\Coding\Projects\MentorMate_Intern_Task\Solution\Mentor\bin\Debug\netcoreapp3.1\MentorMateTaskSolution.pdb
+C:\Users\acho1\Desktop\Coding\Coding\Projects\MentorMate_Intern_Task\Solution\Mentor\obj\Debug\netcoreapp3.1\MentorMateTaskSolution.AssemblyInfoInputs.cache
+C:\Users\acho1\Desktop\Coding\Coding\Projects\MentorMate_Intern_Task\Solution\Mentor\obj\Debug\netcoreapp3.1\MentorMateTaskSolution.AssemblyInfo.cs
+C:\Users\acho1\Desktop\Coding\Coding\Projects\MentorMate_Intern_Task\Solution\Mentor\obj\Debug\netcoreapp3.1\MentorMateTaskSolution.dll
+C:\Users\acho1\Desktop\Coding\Coding\Projects\MentorMate_Intern_Task\Solution\Mentor\obj\Debug\netcoreapp3.1\MentorMateTaskSolution.pdb
+C:\Users\acho1\Desktop\Coding\Coding\Projects\MentorMate_Intern_Task\Solution\Mentor\obj\Debug\netcoreapp3.1\MentorMateTaskSolution.csprojAssemblyReference.cache
